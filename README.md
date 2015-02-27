@@ -10,7 +10,6 @@ Samples
 ----
 
 ```
-./manage shell
 # enable debug logging
 >>> import os
 >>> os.environ['DREST_DEBUG'] = '1'
